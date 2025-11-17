@@ -1,4 +1,4 @@
-i{
+{
   "mcpServers": {
     "cisco-mcp": {
       "command": "/usr/bin/env",
