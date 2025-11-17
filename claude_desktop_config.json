@@ -1,0 +1,13 @@
+i{
+  "mcpServers": {
+    "cisco-mcp": {
+      "command": "/usr/bin/env",
+      "args": [
+        "python3",
+        "/Users/rohitp/model_context_protocol/ios_xe_mcp_server.py"
+      ],
+      "env": {},
+      "workingDirectory": "/Users/rohitp/model_context_protocol/"
+    }
+  }
+}
